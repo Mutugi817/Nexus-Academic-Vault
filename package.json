@@ -4,11 +4,10 @@
   "description": "Interactive CLI downloader for publicly available Chuka University repository past papers",
   "main": "scraper.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node scraper.js"
   },
   "dependencies": {
     "axios": "^1.11.0",
-    "express": "^5.2.1",
     "fflate": "^0.8.3",
     "yazl": "^3.3.1"
   }
