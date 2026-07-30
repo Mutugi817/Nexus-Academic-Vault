@@ -955,7 +955,7 @@ function startWebGUI() {
           <div class="min-w-0">
             <div class="flex items-center gap-2">
               <h1 class="text-lg sm:text-xl font-extrabold tracking-tight truncate">
-                Nexus <span class="text-blue-400">Academic Vault</span>
+                Nexus Academic Vault
               </h1>
               <span class="hidden sm:inline-flex px-2 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-[10px] font-bold uppercase tracking-wider">
                 Chuka
