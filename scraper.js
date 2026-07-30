@@ -1000,10 +1000,7 @@ function startWebGUI() {
         <div class="relative">
           <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
             <div class="max-w-2xl">
-              <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-semibold mb-4">
-                <span class="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-pulse"></span>
-                Repository connected
-              </div>
+              
               <h2 class="text-2xl sm:text-3xl lg:text-4xl font-black tracking-tight text-white">
                 Your academic repository, <span class="text-blue-400">organized.</span>
               </h2>
