@@ -1,0 +1,4 @@
+name = "exam-scraper-worker"
+main = "scraper.js"
+compatibility_date = "2026-07-30"
+compatibility_flags = [ "nodejs_compat" ]
