@@ -951,9 +951,6 @@ function startWebGUI() {
 
         <!-- BRAND -->
         <div class="flex items-center gap-3 min-w-0">
-          <div class="w-11 h-11 rounded-2xl bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-blue-500/20 shrink-0">
-           
-          </div>
 
           <div class="min-w-0">
             <div class="flex items-center gap-2">
