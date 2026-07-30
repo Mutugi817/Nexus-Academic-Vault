@@ -1002,7 +1002,7 @@ function startWebGUI() {
             <div class="max-w-2xl">
               
               <h2 class="text-2xl sm:text-3xl lg:text-4xl font-black tracking-tight text-white">
-                Your academic repository, <span class="text-blue-400">organized.</span>
+                Your academic repository
               </h2>
               <p class="mt-3 text-sm sm:text-base text-slate-400 leading-relaxed max-w-xl">
                 Browse communities, explore course collections, find past examination papers and export exactly the documents you need.
@@ -1081,9 +1081,7 @@ function startWebGUI() {
           <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
             <div>
               <div class="inline-flex items-center gap-2 text-xs text-emerald-400 font-bold uppercase tracking-wider mb-2">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                </svg>
+                
                 Collection
               </div>
               <h2 id="collection-title" class="text-2xl sm:text-3xl font-black text-white break-words">Documents</h2>
